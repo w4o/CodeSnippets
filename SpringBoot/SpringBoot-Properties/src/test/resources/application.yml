@@ -1,0 +1,4 @@
+sample:
+  name: parent
+  second:
+    name: second
